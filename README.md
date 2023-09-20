@@ -1,4 +1,4 @@
-# Review: Variables Lab
+"# Review: Variables Lab
 
 ## Learning Goals
 
@@ -101,7 +101,7 @@ tests fail. Let's figure out how to get one of them passing! (The rest will be
 up to you.)
 
 To get our first test to pass, we can open up our `index.js` file, and write the
-following:
+following:"
 
 ```js
 let companyName = 'Scuber';
